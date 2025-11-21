@@ -1,9 +1,9 @@
 // ====================== ÂM THANH =========================
-const hoverSound = new Audio('sound/hover.mp3');
-const selectSound = new Audio('sound/click.mp3');
-const winSound = new Audio('sound/win.mp3');
-const correctSound = new Audio('sound/ding.mp3');
-const wrongSound = new Audio('sound/buzzer.mp3');
+const hoverSound = new Audio('hover.mp3');
+const selectSound = new Audio('click.mp3');
+const winSound = new Audio('win.mp3');
+const correctSound = new Audio('ding.mp3');
+const wrongSound = new Audio('buzzer.mp3');
 
 winSound.volume = 0.35;
 hoverSound.volume = 0.5;
