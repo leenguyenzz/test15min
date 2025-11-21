@@ -1,0 +1,651 @@
+{
+  "mcq": [
+    {
+      "text": "Mùa Chay bắt đầu khi nào?",
+      "choices": {
+        "A": "Lễ Chúa Giêsu chịu Phép Rửa",
+        "B": "Thứ Tư lễ Tro",
+        "C": "Thứ Bảy Tuần Thánh",
+        "D": "Tất cả đều sai"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Mùa Vọng gồm 4 Chúa Nhật bắt đầu từ Kinh chiều I Chúa Nhật I Mùa Vọng đến Kinh chiều ngày nào?",
+      "choices": {
+        "A": "Lễ Chúa Giêsu Chịu Phép Rửa",
+        "B": "Thứ Tư lễ Tro",
+        "C": "Vọng lễ Giáng Sinh",
+        "D": "Vọng lễ Phục Sinh"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Trong Mùa Giáng Sinh, chúng ta cần phải có tâm tình nào?",
+      "choices": {
+        "A": "Hết lòng cảm tạ Thiên Chúa là Cha, đã thương sai Con Một đến cứu độ nhân loại",
+        "B": "Không ngừng cộng tác với ơn Chúa để Mầu nhiệm Giáng Sinh đem lại ơn cứu độ cho bản thân và cho mọi người",
+        "C": "Luôn canh tân cuộc sống để ngày càng nên xứng đáng với ơn cứu độ Chúa ban và nên con thảo của Người",
+        "D": "Tất cả đều đúng"
+      },
+      "correct": "D"
+    },
+    {
+      "text": "Lễ Chúa Giêsu chịu Phép Rửa được cử hành trong mùa nào của năm Phụng vụ?",
+      "choices": {
+        "A": "Mùa Vọng",
+        "B": "Mùa Giáng Sinh",
+        "C": "Mùa Chay",
+        "D": "Mùa Phục Sinh"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Phụng Vụ Công Giáo gồm các mùa nào?",
+      "choices": {
+        "A": "Mùa Vọng – Mùa Giáng Sinh – Mùa Chay – Mùa Phục Sinh – Mùa Thường Niên",
+        "B": "Mùa Vọng – Mùa Giáng Sinh – Mùa Chay – Mùa Phục Sinh – Mùa Tạ Ơn",
+        "C": "Mùa Chay – Mùa Giáng Sinh – Mùa Vọng – Mùa Gieo Hạt – Mùa Lễ Lá",
+        "D": "Mùa Vọng – Mùa Chay – Mùa Giáng Sinh – Mùa Thu Hoạch – Mùa Thường Niên"
+      },
+      "correct": "A"
+    },
+    {
+      "text": "Mùa nào dưới đây là thời gian Hội Thánh chuẩn bị tâm hồn tín hữu tham dự Mầu nhiệm Tử nạn - Phục sinh của Đức Kitô?",
+      "choices": {
+        "A": "Mùa Vọng",
+        "B": "Mùa Giáng Sinh",
+        "C": "Mùa Chay",
+        "D": "Mùa Phục Sinh"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Mùa Vọng là thời gian người tín hữu chuẩn bị tâm hồn xứng đáng để làm gì?",
+      "choices": {
+        "A": "Đón chờ và mừng Chúa Kitô đến lần thứ nhất (Đại lễ Giáng Sinh) tại Bêlem xứ Palestina",
+        "B": "Hân hoan vì Chúa Kitô đã chiến thắng sự chết để sống lại vinh hiển",
+        "C": "Tỉnh thức và sẵn sàng đón chờ Chúa đến lần thứ hai trong vinh quang (ngày quang lâm, ngày cánh chung)",
+        "D": "Cả A và C đều đúng"
+      },
+      "correct": "D"
+    },
+    {
+      "text": "Mùa nào là thời gian Hội Thánh hân hoan mừng kính Mầu nhiệm Nhập thể, Con Thiên Chúa đến ngự giữa trần gian?",
+      "choices": {
+        "A": "Mùa Vọng",
+        "B": "Mùa Giáng Sinh",
+        "C": "Mùa Chay",
+        "D": "Mùa Phục Sinh"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Tư thế sẵn sàng và tỉnh thức trong Mùa Vọng được diễn tả như thế nào?",
+      "choices": {
+        "A": "Sống ngay thẳng thật thà, không dối trá gian ngoa, nhưng hết lòng suy phục Thiên Chúa qua tiếng nói của lương tâm và lời Hội Thánh dạy bảo",
+        "B": "Không thiếu sót việc bổn phận, sửa chữa những khuyết điểm như giận hờn, oán ghét, tị hiềm",
+        "C": "Dứt khoát xa lánh kiêu ngạo, tự cao, ương ngạnh, khinh miệt bạn bè…",
+        "D": "Tất cả đều đúng"
+      },
+      "correct": "D"
+    },
+    {
+      "text": "Màu phụng vụ của Mùa Vọng là gì?",
+      "choices": {
+        "A": "Đỏ",
+        "B": "Trắng",
+        "C": "Tím",
+        "D": "Xanh"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Màu phụng vụ của Mùa Chay là gì?",
+      "choices": {
+        "A": "Đỏ",
+        "B": "Trắng",
+        "C": "Tím",
+        "D": "Xanh"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Mùa Vọng kéo dài bao lâu?",
+      "choices": {
+        "A": "2 tuần",
+        "B": "3 tuần",
+        "C": "4 tuần",
+        "D": "5 tuần"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Màu phụng vụ chính của Mùa Giáng Sinh là gì?",
+      "choices": {
+        "A": "Đỏ",
+        "B": "Trắng",
+        "C": "Tím",
+        "D": "Xanh"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Trong Mùa Giáng Sinh, Giáo Hội đặc biệt kính nhớ biến cố nào?",
+      "choices": {
+        "A": "Biến hình",
+        "B": "Bữa Tiệc Ly",
+        "C": "Chúa chịu nạn",
+        "D": "Mầu nhiệm Nhập Thể"
+      },
+      "correct": "D"
+    },
+    {
+      "text": "Mùa Chay kéo dài bao lâu?",
+      "choices": {
+        "A": "20 ngày",
+        "B": "30 ngày",
+        "C": "40 ngày",
+        "D": "50 ngày"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Mùa Chay nhấn mạnh điều gì?",
+      "choices": {
+        "A": "Niềm vui Chúa giáng sinh",
+        "B": "Chúa Kitô hiển linh",
+        "C": "Các phép lạ của Chúa Giêsu",
+        "D": "Sám hối – Cầu nguyện – Bác ái"
+      },
+      "correct": "D"
+    },
+    {
+      "text": "Trong Thánh lễ Mùa Chay, Giáo Hội bỏ phần nào?",
+      "choices": {
+        "A": "Ca hiệp lễ",
+        "B": "Kinh Vinh Danh",
+        "C": "Lời nguyện tín hữu",
+        "D": "Ca nhập lễ"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Trong Mùa Chay, Kinh “Alleluia” được dùng thế nào?",
+      "choices": {
+        "A": "Không hát và không đọc",
+        "B": "Hát vào lễ trọng",
+        "C": "Vẫn hát như bình thường",
+        "D": "Chỉ đọc trong tuần thánh"
+      },
+      "correct": "A"
+    },
+    {
+      "text": "Mùa Chay chuẩn bị cho mầu nhiệm nào?",
+      "choices": {
+        "A": "Giáng Sinh",
+        "B": "Phục Sinh",
+        "C": "Chúa Hiển Linh",
+        "D": "Đức Mẹ Hồn Xác Lên Trời"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Biểu tượng thường thấy của Mùa Chay là gì?",
+      "choices": {
+        "A": "Màu hồng",
+        "B": "Máng cỏ",
+        "C": "Vòng hoa 4 nến",
+        "D": "Tro – Thập giá – Sa mạc"
+      },
+      "correct": "D"
+    },
+
+    {
+      "text": "Lễ nào mở đầu Tuần Thánh, cao điểm của Mùa Chay?",
+      "choices": {
+        "A": "Lễ Truyền Tin",
+        "B": "Lễ Phục Sinh",
+        "C": "Lễ Thánh Thể",
+        "D": "Lễ Lá"
+      },
+      "correct": "D"
+    },
+    {
+      "text": "Tuần Thánh tưởng nhớ điều gì?",
+      "choices": {
+        "A": "Chúa Giáng Sinh",
+        "B": "Cuộc đời ẩn dật của Chúa Giêsu",
+        "C": "Cuộc thương khó, tử nạn và phục sinh của Chúa Giêsu",
+        "D": "Các phép lạ của Chúa"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Nghi thức rửa chân diễn ra vào ngày nào trong Tuần Thánh?",
+      "choices": {
+        "A": "Thứ Hai",
+        "B": "Thứ Ba",
+        "C": "Thứ Tứ",
+        "D": "Thứ Năm Tuần Thánh"
+      },
+      "correct": "D"
+    },
+    {
+      "text": "Trong Thứ Sáu Tuần Thánh, Giáo Hội:",
+      "choices": {
+        "A": "Cử hành Thánh lễ trọng thể",
+        "B": "Không cử hành Thánh lễ, chỉ có nghi thức Suy Tôn Thánh Giá",
+        "C": "Chỉ cử hành thánh lễ ban sáng",
+        "D": "Chỉ cử hành phụng vụ Rửa tội"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Đỉnh cao của Tuần Thánh là gì?",
+      "choices": {
+        "A": "Lễ Truyền Tin",
+        "B": "Nghi thức Rửa chân",
+        "C": "Phụng vụ Thứ Sáu Tuần Thánh",
+        "D": "Canh thức Phục Sinh"
+      },
+      "correct": "D"
+    },
+    {
+      "text": "Mùa Phục Sinh kéo dài bao lâu?",
+      "choices": {
+        "A": "7 ngày",
+        "B": "40 ngày",
+        "C": "50 ngày",
+        "D": "60 ngày"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Màu phụng vụ chính của Mùa Phục Sinh là gì?",
+      "choices": {
+        "A": "Đỏ",
+        "B": "Trắng",
+        "C": "Tím",
+        "D": "Xanh"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Chủ đề chính của Mùa Phục Sinh là gì?",
+      "choices": {
+        "A": "Chúa Giêsu sinh ra",
+        "B": "Chúa Giêsu chết trên thập giá",
+        "C": "Chúa Giêsu sống lại và chiến thắng tội lỗi, sự chết",
+        "D": "Chúa Giêsu hiện ra cho các môn đệ"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Mùa Phục Sinh nhắc nhở tín hữu điều gì?",
+      "choices": {
+        "A": "Niềm vui Chúa giáng sinh",
+        "B": "Sống sám hối",
+        "C": "Niềm tin vào Chúa sống lại và hy vọng chiến thắng tội lỗi",
+        "D": "Chuẩn bị Giáng Sinh"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Sau khi chịu Phép Rửa tại sông Gio-đan, Chúa Giêsu đi đâu?",
+      "choices": {
+        "A": "Chúa Giêsu rao giảng Tin Mừng tại Ga-li-lê",
+        "B": "Chúa Giêsu ăn chay ròng rã 40 đêm ngày trong hoang địa",
+        "C": "Chúa Giêsu tiến vào đền thờ Giê-ru-sa-lem",
+        "D": "Tất cả đều sai"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Mùa Thường Niên có bao nhiêu tuần?",
+      "choices": {
+        "A": "4 tuần",
+        "B": "7 tuần",
+        "C": "33 hoặc 34 tuần",
+        "D": "5 đến 9 tuần"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Mùa Thường Niên chia làm mấy giai đoạn?",
+      "choices": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Giai đoạn 1 Mùa Thường Niên bắt đầu từ lễ nào?",
+      "choices": {
+        "A": "Thứ Hai sau lễ Chúa Giêsu Chịu Phép Rửa",
+        "B": "Lễ Tro",
+        "C": "Lễ Chúa Thánh Thần Hiện Xuống",
+        "D": "Lễ Chúa Kitô Vua Vũ Trụ"
+      },
+      "correct": "A"
+    },
+    {
+      "text": "Giai đoạn 2 Mùa Thường Niên bắt đầu từ lễ nào?",
+      "choices": {
+        "A": "Lễ Chúa Giêsu Chịu Phép Rửa",
+        "B": "Lễ Tro",
+        "C": "Thứ 2 sau lễ Chúa Thánh Thần Hiện Xuống",
+        "D": "Lễ Chúa Kitô Vua Vũ Trụ"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Mùa Thường Niên kết thúc với lễ nào?",
+      "choices": {
+        "A": "Lễ Đức Mẹ Vô Nhiễm",
+        "B": "Lễ Giáng Sinh",
+        "C": "Lễ Chúa Kitô Vua Vũ Trụ",
+        "D": "Lễ Thánh Gia"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Màu phụng vụ của Mùa Thường Niên là gì?",
+      "choices": {
+        "A": "Đỏ",
+        "B": "Trắng",
+        "C": "Tím",
+        "D": "Xanh"
+      },
+      "correct": "D"
+    },
+    {
+      "text": "Chủ đề chính của Mùa Thường Niên hướng tới điều gì?",
+      "choices": {
+        "A": "Cuộc sống và giáo huấn của Chúa Giêsu",
+        "B": "Nhìn lại đời sống cầu nguyện",
+        "C": "Sự sám hối",
+        "D": "Sự chờ đợi Chúa đến"
+      },
+      "correct": "A"
+    },
+    {
+      "text": "Trong Mùa Thường Niên, các bài Tin Mừng Chúa Nhật theo chu kỳ mấy năm?",
+      "choices": {
+        "A": "Chu kỳ cố định",
+        "B": "1 năm",
+        "C": "2 năm",
+        "D": "3 năm: A – B – C"
+      },
+      "correct": "D"
+    },
+    {
+      "text": "Mùa Thường Niên có bị gián đoạn bởi mùa nào?",
+      "choices": {
+        "A": "Mùa Giáng Sinh",
+        "B": "Mùa Chay và Mùa Phục Sinh",
+        "C": "Mùa Vọng",
+        "D": "Không gián đoạn"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Ngày 2/11 được gọi là gì?",
+      "choices": {
+        "A": "Lễ Các Thánh Tử Đạo",
+        "B": "Lễ Các Đẳng Linh Hồn",
+        "C": "Lễ Các Thánh Nam Nữ",
+        "D": "Lễ Hiện Xuống"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "\"Các Thánh Tử Đạo Việt Nam\" được mừng vào ngày nào?",
+      "choices": {
+        "A": "19/6",
+        "B": "Chúa Nhật cuối Tháng 11",
+        "C": "24/11",
+        "D": "26/11"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Người tín hữu tôn kính các thánh vì…",
+      "choices": {
+        "A": "Các thánh có quyền lực ngang Thiên Chúa",
+        "B": "Các thánh có thể ban ơn riêng",
+        "C": "Các thánh là gương mẫu sống đạo và cầu bầu cho ta",
+        "D": "Buộc phải tôn kính"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Tước hiệu “Tử đạo” áp dụng cho những ai?",
+      "choices": {
+        "A": "Bất kỳ ai chết",
+        "B": "Ai chết vì danh Chúa Kitô",
+        "C": "Các tu sĩ",
+        "D": "Chỉ linh mục"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Lễ Đức Mẹ Mân Côi được cử hành vào ngày nào?",
+      "choices": {
+        "A": "1/1",
+        "B": "15/8",
+        "C": "7/10",
+        "D": "8/12"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Lễ Đức Mẹ Vô Nhiễm Nguyên Tội được cử hành vào:",
+      "choices": {
+        "A": "1/1",
+        "B": "15/8",
+        "C": "7/10",
+        "D": "8/12"
+      },
+      "correct": "D"
+    },
+    {
+      "text": "Ngày mừng Lễ Đức Mẹ Hồn Xác Lên Trời là:",
+      "choices": {
+        "A": "1/1",
+        "B": "15/8",
+        "C": "7/10",
+        "D": "8/12"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Lễ Trọng Đức Maria Mẹ Thiên Chúa được cử hành vào ngày nào?",
+      "choices": {
+        "A": "1/1",
+        "B": "15/8",
+        "C": "7/10",
+        "D": "8/12"
+      },
+      "correct": "A"
+    },
+    {
+      "text": "Lễ Đức Mẹ Hồn Xác Lên Trời là lễ gì?",
+      "choices": {
+        "A": "Lễ nhớ",
+        "B": "Lễ kính",
+        "C": "Lễ trọng",
+        "D": "Lễ tùy chọn"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Lễ Thánh Giuse được cử hành vào:",
+      "choices": {
+        "A": "19/3",
+        "B": "24/6",
+        "C": "29/6",
+        "D": "1/11"
+      },
+      "correct": "A"
+    },
+    {
+      "text": "Lễ Sinh nhật Gioan Tẩy Giả được cử hành vào:",
+      "choices": {
+        "A": "19/3",
+        "B": "24/6",
+        "C": "29/6",
+        "D": "1/11"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Lễ Thánh Phê-rô, Phao-lô được cử hành vào:",
+      "choices": {
+        "A": "19/3",
+        "B": "24/6",
+        "C": "29/6",
+        "D": "1/11"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Lễ Các Thánh Nam Nữ được cử hành vào:",
+      "choices": {
+        "A": "19/3",
+        "B": "24/6",
+        "C": "29/6",
+        "D": "1/11"
+      },
+      "correct": "D"
+    },
+    {
+      "text": "Thánh Lễ bắt nguồn từ biến cố nào trong đời Chúa Giêsu?",
+      "choices": {
+        "A": "Bài Giảng Trên Núi",
+        "B": "Bữa Tiệc Ly",
+        "C": "Phép lạ hóa bánh ra nhiều",
+        "D": "Cuộc thương khó"
+      },
+      "correct": "B"
+    },
+    {
+      "text": "Trong Bữa Tiệc Ly, Chúa Giêsu đã làm gì để thiết lập Bí tích Thánh Thể?",
+      "choices": {
+        "A": "Cầu nguyện chung với các môn đệ",
+        "B": "Rửa chân cho các môn đệ",
+        "C": "Bẻ bánh và trao chén, nói: “Này là Mình Thầy… Này là Máu Thầy…”",
+        "D": "Giảng dạy về lòng bác ái"
+      },
+      "correct": "C"
+    },
+    {
+      "text": "Chúa Giêsu truyền cho các tông đồ điều gì trong Bữa Tiệc Ly?",
+      "choices": {
+        "A": "“Hãy rao giảng Tin Mừng”",
+        "B": "“Hãy nâng ly chúc tụng”",
+        "C": "“Hãy yêu thương nhau”",
+        "D": "“Anh em hãy làm việc này mà nhớ đến Thầy”"
+      },
+      "correct": "D"
+    },
+    {
+      "text": "Sau bữa tiệc ly, Chúa Kitô đã làm gì?",
+      "choices": {
+        "A": "Chúa Kitô tự nguyện hiến thân trên thập giá để cứu độ nhân loại",
+        "B": "Chúa Giêsu lên trời",
+        "C": "Chúa Kitô hoá bánh ra nhiều",
+        "D": "Chúa Giêsu vào đền Jerrusalem"
+      },
+      "correct": "A"
+    },
+    {
+      "text": "Thánh Lễ còn được gọi là “Lễ bẻ bánh” vì lý do gì?",
+      "choices": {
+        "A": "Trong Thánh Lễ Linh mục lập lại hành vi bẻ bánh của Chúa Kitô",
+        "B": "Trong bữa tiệc ly, Chúa Kitô cầm lấy bánh tạ ơn Chúa Cha",
+        "C": "Thánh Lễ nhắc ta nhớ lại bữa tiệc do chính Chúa Kitô đã tổ chức với các tông đồ",
+        "D": "Tất cả đều sai"
+      },
+      "correct": "A"
+    },
+    {
+      "text": "Trong số các tên gọi sau, tên nào KHÔNG phải là cách gọi khác của Thánh Lễ?",
+      "choices": {
+        "A": "Lễ Bẻ Bánh",
+        "B": "Lễ Tạ Ơn",
+        "C": "Lễ Misa",
+        "D": "Lễ Phục Sinh"
+      },
+      "correct": "D"
+    }
+  ],
+  "essay": [
+    {
+      "text": "Phụng vụ là gì?",
+      "keywords": [
+        { "word": ["thờ phượng Thiên Chúa"], "point": 1 },
+        { "word": ["công khai"], "point": 1},
+        { "word": ["chính thức"], "point": 1}
+      ],
+      "sample": "Phụng vụ là việc thờ phượng Thiên Chúa công khai và chính thức của toàn thể Hội Thánh."
+    },
+    {
+      "text": "Phụng Vụ gồm các việc thờ phượng nào?",
+      "keywords": [
+        { "word": ["thánh lễ"], "point": 1 },
+        { "word": ["bí tích"], "point": 1 },
+        { "word": ["phụng vụ các giờ kinh"], "point": 1 }
+      ],
+      "sample": "Phụng vụ gồm các việc thờ phượng sau:\n- Thánh lễ\n- Các Bí Tích và Á Bí Tích (Phụ tích)\n- Phụng Vụ các Giờ kinh"
+    },
+    {
+      "text": "Mùa Vọng là gì?",
+      "keywords": [
+        { "word": ["đón chờ"], "point": 1 },
+        { "word": ["tỉnh thức"], "point": 1 },
+        { "word": ["sẵn sàng"], "point": 1 }
+      ],
+      "sample": "Mùa Vọng là thời gian người tín hữu chuẩn bị tâm hồn xứng đáng để:\n- Đón chờ và mừng Chúa Kitô đến lần thứ nhất (Đại lễ Giáng Sinh) tại Bêlem xứ Palestina\n- Tỉnh thức và sẵn sàng đón chờ Chúa đến lần thứ hai trong vinh quang (ngày quang lâm, ngày cánh chung)"
+    },
+    {
+      "text": "Mùa Giáng Sinh là gì?",
+      "keywords": [
+        { "word": ["Mầu nhiệm Nhập thể"], "point": 1 },
+        { "word": ["ngự giữa trần gian"], "point": 1 },
+        { "word": ["Ơn Cứu Độ"], "point": 1 }
+      ],
+      "sample": "Đó là thời gian Hội Thánh hân hoan mừng kính Mầu nhiệm Nhập thể, Con Thiên Chúa đến ngự giữa trần gian, để từ nay nhân loại được mời gọi đến hưởng Ơn Cứu Độ của Thiên Chúa."
+    },
+    {
+      "text": "Mùa Chay là gì?",
+      "keywords": [
+        { "word": ["thời gian Hội Thánh"], "point": 1 },
+        { "word": ["tâm hồn tín hữu"], "point": 1 },
+        { "word": ["Tử nạn", "Phục sinh"], "point": 1 }
+      ],
+      "sample": "Mùa Chay là thời gian Hội Thánh chuẩn bị tâm hồn tín hữu tham dự Mầu nhiệm Tử nạn - Phục sinh của Đức Kitô."
+    },
+    {
+      "text": "Tam nhật Vượt Qua là những ngày nào?",
+      "keywords": [
+        { "word": ["Thánh lễ chiều thứ Năm"], "point": 1 },
+        { "word": ["Kinh chiều Chúa nhật"], "point": 1 },
+        { "word": ["Canh Thức Vượt Qua"], "point": 1 }
+      ],
+      "sample": "Tam nhật Vượt Qua tưởng niệm cuộc Thương Khó và Phục sinh của Chúa Kitô, bắt đầu từ Thánh lễ chiều thứ Năm Tuần Thánh và kết thúc bằng giờ Kinh chiều Chúa nhật Phục sinh. Trung tâm của Tam nhật Vượt Qua là đêm Canh Thức Vượt Qua."
+    },
+    {
+      "text": "Vì sao Mùa Phục Sinh là thời gian tràn ngập hân hoan vui mừng?",
+      "keywords": [
+        { "word": ["chiến thắng sự chết", "sống lại vinh hiển"], "point": 1 },
+        { "word": ["được nên con Chúa","gia nghiệp nước trời"], "point": 1 },
+        { "word": ["chết đi cho tội lỗi","sống lại với Chúa"], "point": 1 }
+      ],
+      "sample": "Mùa Phục sinh là thời gian tràn ngập hân hoan vui mừng vì:\n- Chúa Kitô đã chiến thắng sự chết để sống lại vinh hiển\n- Chúng ta được nên con Chúa, được bảo đảm gia nghiệp Nước Trời\n- Ta tin rằng nếu ta chết đi cho tội lỗi, ta cũng được sống lại với Chúa"
+    }
+  ]
+}
+
