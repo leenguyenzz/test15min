@@ -1,0 +1,251 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-image: url('/church.jpg'); /* ảnh nền bạn tải lên */
+  background-size: cover; /* ảnh phủ toàn màn hình */
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* cố định khi cuộn */
+  background-position: center;
+  margin: 0;
+  padding: 0;
+}
+
+/* Câu hỏi */
+#quiz-content h5 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 15px;
+  line-height: 1.5;
+}
+
+.quiz-box {
+  background: linear-gradient(135deg, #e0f7fa, #ffffff); /* nền dịu, sáng */
+  padding: 35px 40px;
+  border-radius: 25px;
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #1f2937;
+  max-width: 700px;
+  margin: 30px auto;
+  transition: all 0.3s ease;
+  opacity: 0.95;
+}
+
+.section-title {
+  text-align: left;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* ====== Nút Câu tiếp theo / Nộp bài ====== */
+#skipBtn,
+#submitEssay {
+  background: linear-gradient(135deg, #3b82f6, #6366f1);
+  border: none;
+  font-size: 1.1rem;
+  border-radius: 12px;
+  padding: 12px;
+  color: white;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+
+#skipBtn:hover,
+#submitEssay:hover {
+  transform: translateY(-3px);
+  background: linear-gradient(135deg, #2563eb, #4f46e5);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.18);
+}
+
+/* ====== Đồng hồ ====== */
+.timer {
+  background: #fff1f2;
+  border: 2px solid #fda4af;
+  padding: 8px 16px;
+  border-radius: 12px;
+  display: inline-block;
+  font-size: 1.2rem;
+  color: #be123c !important;
+  font-weight: 700;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.08);
+}
+
+/* ====================== COMMON ====================== */
+.answer-box {
+  border: 1px solid #e6e6e6;
+  border-radius: 8px;
+  background: #fff;
+  padding: 12px 16px;
+  margin-bottom: 12px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+/* Trắc nghiệm */
+.blink {
+  animation: blink 0.5s ease 0.2s 3;
+}
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.3;
+  }
+}
+
+/* Tự luận */
+.essay-review {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.essay-review div {
+  flex: 1 1 45%;
+  margin-bottom: 8px;
+}
+
+.user-answer {
+  color: #0d6efd;
+  font-weight: 500;
+}
+.correct-answer {
+  color: #198754;
+  font-weight: 600;
+  text-align: right;
+}
+.title-quiz span {
+  display: inline-block;
+  font-size: 2.5rem;
+  font-weight: 700;
+  padding: 0 2px;
+  color: #fff;
+  animation: floatColor 3s infinite;
+}
+
+.title-quiz {
+  display: inline-block;
+  padding: 15px 30px;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #fff;
+  background: linear-gradient(135deg, #ff7e5f, #feb47b); /* cam → vàng */
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+/* ==================== PHÁO HOA NHIỀU MÀU ==================== */
+.firework {
+  position: fixed;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 99999;
+}
+/* ==================== FIREWORK PARTICLE ==================== */
+.firework {
+  position: fixed;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 99999;
+}
+
+/* ==================== FIREFLY (ĐOM ĐÓM) ==================== */
+.firefly {
+  position: fixed;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: rgba(255, 255, 200, 0.9);
+  box-shadow: 0 0 8px 3px rgba(255, 255, 150, 0.9);
+  pointer-events: none;
+  z-index: 99999;
+}
+/* === ĐÁP ÁN TRẮC NGHIỆM - Ô TRÒN === */
+.option {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #fff7ed;
+  border: 1px solid #fcd34d;
+  padding: 12px 14px;
+  border-radius: 14px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  transition: 0.25s ease;
+  font-size: 1.05rem;
+}
+
+.option:hover {
+  background: #fde68a;
+  transform: scale(1.03);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+}
+
+/* Ô tròn A B C D */
+.option-circle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid #b96001;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 20px;
+  color: #e7764d;
+  background: rgb(255, 255, 255);
+  transition: 0.25s ease;
+  flex-shrink: 0; /* ❗ Cấm co nhỏ */
+  flex-grow: 0; /* ❗ Cấm giãn */
+}
+
+/* Khi người dùng click chọn */
+.option.selected .option-circle {
+  background: #4a90e2;
+  color: white;
+}
+
+/* --- Giữ hiệu ứng đúng / sai của bạn --- */
+.option.correct {
+  background: #bbf7d0 !important;
+  border-color: #10b981 !important;
+  color: #065f46;
+  font-weight: 600;
+}
+
+.option.correct .option-circle {
+  background: #10b981 !important;
+  color: white !important;
+  border-color: #059669 !important;
+}
+
+.option.wrong {
+  background: #fecaca !important;
+  border-color: #ef4444 !important;
+  color: #7f1d1d;
+  font-weight: 600;
+}
+
+.option.wrong .option-circle {
+  background: #ef4444 !important;
+  color: white !important;
+  border-color: #b91c1c !important;
+}
+.designer-credit {
+  position: fixed; /* cố định trên màn hình */
+  bottom: 10px; /* cách đáy 10px */
+  right: 10px; /* cách phải 10px */
+  background: rgba(0, 0, 0, 0.5); /* nền mờ */
+  color: #ffffff; /* chữ màu trắng */
+  font-size: 0.7rem; /* chữ nhỏ */
+  padding: 5px 10px;
+  border-radius: 8px;
+  z-index: 1000; /* hiển thị trên cùng */
+  pointer-events: none; /* không bị click */
+}
